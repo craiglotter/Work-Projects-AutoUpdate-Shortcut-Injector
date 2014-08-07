@@ -1,0 +1,10 @@
+Work Projects AutoUpdate Shortcut Injector is a simple application that runs through all the Work Project folders in a specified base folder, injecting an AutoUpdate program shortcut into the Advanced Installer .aip build file, ensuring that the shortcut and AutoUpdate icon is in fact in the project's Installer Folder (if AutoUpdate.exe is detected as being in the Required Files folder). The program also updates the Uninstall shortcut.
+
+To select the Projects folder to check, either click on the browse button or drag and drop the folder straight on to the text box. Note that a Projects base folder follows the form of "Base Project Folder" -> "Example App - 04 November 2004" -> "Source Code" -> "Example App - 04 November 2004" -> "Required Files"
+
+To start the operation, simply click on the Begin button. 
+
+The help and about menu options brings up the help and about dialog boxes respectively.
+
+
+-- Last Updated: 15/11/2007 --
